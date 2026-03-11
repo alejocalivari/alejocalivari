@@ -1,6 +1,6 @@
 
 Hey! I'm Alejo Calivari.  
-A 19-year-old junior web developer from Argentina with a brain wired for building.  
+A 20-year-old junior web developer from Argentina with a brain wired for building.  
 I grew up surrounded by tools, circuits, PC upgrades, and a constant need to figure out how everything works.
 
 Today, I bring that same obsession to programming — opening things up, building from scratch, and making ideas work.
@@ -54,7 +54,7 @@ Thanks for reading.
 ----------------------------------------------------------------------------------------------------
 
 ¿Qué onda? Soy Alejo Calivari.  
-Dev junior, argentino, 19 años, y con los cables cruzados desde que tengo memoria (literal).  
+Dev junior, argentino, 20 años, y con los cables cruzados desde que tengo memoria (literal).  
 Me crié entre herramientas, circuitos, upgrades de PC y la necesidad de entender cómo funciona todo.
 
 Hoy le meto a la programación con la misma obsesión que tenía por abrir las cosas de pibe.

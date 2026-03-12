@@ -24,8 +24,7 @@ Hardware, PCs, electronics, and real-world problem solving.
 
 ### Links
 Portfolio → https://alejocalivari.github.io  
-GitHub → https://github.com/alejocalivari
-
+Linkedln → https://www.linkedin.com/in/alejo-juli%C3%A1n-calivari-22b19a27b/
 ---------------------------------------------------------------------------------------
 
 # Alejo Calivari
@@ -54,4 +53,4 @@ Hardware, PCs, electrónica y resolución de problemas técnicos.
 
 ### Links
 Portfolio → https://alejocalivari.github.io  
-GitHub → https://github.com/alejocalivari
+Linkedln → https://www.linkedin.com/in/alejo-juli%C3%A1n-calivari-22b19a27b/

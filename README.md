@@ -4,6 +4,11 @@ Junior Web Developer — Argentina
 
 I build real projects while studying full-stack development.
 
+## Certifications
+
+IBM - Introduction to Software Engineering (Coursera)
+https://coursera.org/verify/4370WGX4S1Q1
+
 ### Tech Stack
 HTML • CSS • JavaScript  
 Git • GitHub • GitHub Pages  
@@ -32,6 +37,11 @@ Linkedln → https://www.linkedin.com/in/alejo-juli%C3%A1n-calivari-22b19a27b/
 Desarrollador web junior — Argentina
 
 Construyo proyectos reales mientras estudio desarrollo full-stack.
+
+## Certificationes
+
+IBM - Introduction to Software Engineering (Coursera)
+https://coursera.org/verify/4370WGX4S1Q1
 
 ### Stack
 HTML • CSS • JavaScript  
